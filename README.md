@@ -24,3 +24,5 @@ This repository contains a PyTorch implementation of a U-Net model designed for 
 
 - I obtained the dataset from kaggle and preprocessed it by renaming and splitting the patients into random train and test sets with 0.9 train size.
 - The dataset link is : https://www.kaggle.com/datasets/dschettler8845/brats-2021-task1
+
+[alt text](Results/output5.png)
