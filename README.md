@@ -18,6 +18,7 @@ This repository contains a PyTorch implementation of a U-Net model designed for 
 - `Processed Data/`: Directory containing the BraTS 2021 dataset.
 - `Results/`: Directory containing few images of the results obtained via the plots.
 - `requirements.txt`: List of dependencies required to run the code.
+- `Rename_data` : Rename all the folders from the original dataset and split into train and test data
 
 ## Dataset
 
