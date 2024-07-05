@@ -27,4 +27,4 @@ This repository contains a PyTorch implementation of a U-Net model designed for 
 
 ## Sample 
 
-[alt text](Results/output5.jpg)
+[sample.jpg](Results/output5.jpg)
